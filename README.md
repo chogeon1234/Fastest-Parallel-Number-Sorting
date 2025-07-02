@@ -34,4 +34,5 @@
 
 5000000 my new sort avg : 77.499535
 5000000 java sort avg : 384.2464
+
 4.9580474 rate faster
